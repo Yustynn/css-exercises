@@ -1,0 +1,17 @@
+.row {
+  background-color: yellow;
+  display: flex;
+}
+
+.col {
+  background-color: orange;
+  margin: 10px;
+}
+
+.one-fourth {
+  width: 25%;
+}
+
+.two-fourths {
+  width: 50%;
+}

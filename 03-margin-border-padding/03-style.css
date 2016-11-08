@@ -1,0 +1,21 @@
+body {
+  background-image: url('http://www.beanstack.sg/assets/work/logos/sutd_logo-b867c5ecdf856afc5d1dc6afea203bc6.png');
+  background-size: contain;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+}
+
+#box-one {
+  background-color: orange;
+}
+
+#box-two {
+  background-color: #e67e22;
+}
+
+#box-three {
+  background-color: rgba(230, 126, 34, 0.6);
+}

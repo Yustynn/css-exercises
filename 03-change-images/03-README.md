@@ -1,4 +1,0 @@
-# TASKS
-1. Change the background color to green
-2. Set the background image to the SUTD logo
-  - (here's the image: http://www.beanstack.sg/assets/work/logos/sutd_logo-b867c5ecdf856afc5d1dc6afea203bc6.png)
